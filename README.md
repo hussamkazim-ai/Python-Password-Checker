@@ -1,6 +1,8 @@
 # Python-Password-Checker
 A terminal-based tool to check how many times a password has been pwned using Python.
 
+Command to run this script: python main.py yourpasswordhere
+
 Here's how it works:
 
 1: We convert the password that we want to check to SHA1 encoding
